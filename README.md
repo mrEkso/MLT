@@ -8,7 +8,29 @@ Tanasienko Anastasia IA-13
 
 Sidoruk Olga IA-13
 
-### Navigation
+### Installation
 
-The repository is organized so that to get to the code for lab practice #1, just go to the Lab1 branch and so on for the
-rest.
+1.Copy the repository
+
+```sh
+git clone https://github.com/mrEkso/MLT.git
+```
+
+2.Deploying the project
+
+```sh
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+3.Install the required packages
+
+```sh
+pip install -r requirements.txt
+```
+
+4.Run the project
+
+```sh  
+python main.py
+```
