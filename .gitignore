@@ -1,0 +1,16 @@
+/.venv
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.docx
+*.csv
+*.egg-info/
+dist/
+build/
+*.db
+.idea
